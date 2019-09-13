@@ -461,7 +461,7 @@
     }
   },
   "title": "Auth0 Logs to Segment",
-  "name": "auth0-logs-to-segment",
+  "name": "vp-auth0-logs-to-segment",
   "version": "2.0.1",
   "description": "This extension will take all of your Auth0 logs and export them to Segment"
 }
